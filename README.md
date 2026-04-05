@@ -37,5 +37,5 @@ If you encounter any issues or have suggestions for improvements, please open an
 
 ---
 
-Made with ❤️ by [ARS Technology India](https://github.com/ars-technology-india)
+Made with ❤️ by [CareerDec EdTech Solutions](https://github.com/careerdec-edtech-solutions)
 
